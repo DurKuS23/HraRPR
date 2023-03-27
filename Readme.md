@@ -1,1 +1,2 @@
-Nováček Daniel, Vojtěch Dolách
+Authors - Nováček Daniel
+        - Vojtěch Dolák
